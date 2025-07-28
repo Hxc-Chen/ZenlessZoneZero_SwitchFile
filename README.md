@@ -5,7 +5,8 @@
 Method of Use
 ----------------
 将压缩包内的文件全选拖出至游戏根目录，选择全部覆盖即可<br>
-[视频教程](https://www.bilibili.com/video/BV1RY8EzqEYz)
+[视频教程](https://www.bilibili.com/video/BV1RY8EzqEYz)<br>
+
 Prospect
 ----------
 后续如有需要可以更新星铁以及原神的国际服转换文件<br>
