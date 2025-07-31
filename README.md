@@ -6,6 +6,8 @@ Method of Use
 ----------------
 将压缩包内的文件全选拖出至游戏根目录，选择全部覆盖即可<br>
 [视频教程](https://www.bilibili.com/video/BV1RY8EzqEYz)<br>
+[123盘CN](https://www.123684.com/s/222Ijv-k74Fd)<br>
+[123盘Global](https://www.123684.com/s/222Ijv-o74Fd)<br>
 
 Prospect
 ----------
