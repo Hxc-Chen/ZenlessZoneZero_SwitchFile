@@ -6,8 +6,8 @@ Method of Use
 ----------------
 将压缩包内的文件全选拖出至游戏根目录，选择全部覆盖即可<br>
 [视频教程](https://www.bilibili.com/video/BV1RY8EzqEYz)<br>
-[微云CN](https://share.weiyun.com/7MkOuzDk)<br>
-[微云Global](https://share.weiyun.com/5ldxkTKw)<br>
+[微云CN](https://share.weiyun.com/l0Jbm6KU)<br>
+[微云Global](https://share.weiyun.com/xAtDXA59)<br>
 [微云B服](https://share.weiyun.com/1unlj0hA)<br>
 
 Prospect
