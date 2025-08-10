@@ -1,8 +1,21 @@
 # ZenlessZoneZero_SwitchFile
-目前更新至2.1版本，测试版，个人使用正常<br>
+目前更新至2.1版本，个人使用正常，如有问题可联系我 q:2094379680  v:Chen_09C5FA<br>
+
+Explanation
+-------------
 文件在Release里面下载，CN后缀为国服，Global后缀为国际服，B后缀为B服<br>
-[微云CN](https://share.weiyun.com/l0Jbm6KU)<br>
-[微云Global](https://share.weiyun.com/xAtDXA59)<br>
+自V2.1.4版本开始更新双版本资源替换包<br>
+后缀带有NoHotUpdates的为无游戏热更新版本<br>
+优点是基本整个大版本都可使用，缺点是但每次切服时进游戏会重新下载一些游戏资源<br>
+<br>
+而带有游戏热更新的资源包则无需下载游戏资源文件，缺点是文件可能较大且更新较为频繁<br>
+
+Other Download link
+----------------
+[微云CN](https://share.weiyun.com/leJ29rNF)<br>
+[微云CN_NoHotUpdates](https://share.weiyun.com/aA3fyRgO)<br>
+[微云Global](https://share.weiyun.com/FLbcYl7A)<br>
+[微云Global_NoHotUpdates](https://share.weiyun.com/wWPtWRsi)<br>
 [微云B服](https://share.weiyun.com/1unlj0hA)<br>
 
 Method of Use
