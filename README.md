@@ -10,12 +10,17 @@ Explanation
 而带有游戏热更新的资源包则无需下载游戏资源文件，缺点是文件可能较大且更新较为频繁<br>
 
 Other Download link
-----------------
-[微云CN](https://share.weiyun.com/leJ29rNF)<br>
+-----------------------
+[微云CN](https://share.weiyun.com/xZDL4rGv)<br>
 [微云CN_NoHotUpdates](https://share.weiyun.com/aA3fyRgO)<br>
-[微云Global](https://share.weiyun.com/FLbcYl7A)<br>
+[微云Global](https://share.weiyun.com/yZTh7Jox)<br>
 [微云Global_NoHotUpdates](https://share.weiyun.com/wWPtWRsi)<br>
 [微云B服](https://share.weiyun.com/1unlj0hA)<br>
+[123盘CN](https://www.123684.com/s/222Ijv-tdxFd)
+[123盘CN_NoHotUpdates]：(https://www.123684.com/s/222Ijv-zdxFd)
+[123盘Global]：(https://www.123684.com/s/222Ijv-cdxFd)
+[123盘Global_NoHotUpdates]：(https://www.123684.com/s/222Ijv-LdxFd)
+[123盘B服l]：(https://www.123684.com/s/222Ijv-5dxFd)
 
 Method of Use
 ----------------
