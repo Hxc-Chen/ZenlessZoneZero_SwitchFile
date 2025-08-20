@@ -20,7 +20,7 @@ Other Download link
 [123盘CN_NoHotUpdates](https://www.123684.com/s/222Ijv-zdxFd)<br>
 [123盘Global](https://www.123684.com/s/222Ijv-cdxFd)<br>
 [123盘Global_NoHotUpdates](https://www.123684.com/s/222Ijv-LdxFd)<br>
-[123盘B服l](https://www.123684.com/s/222Ijv-5dxFd)<br>
+[123盘B服](https://www.123684.com/s/222Ijv-5dxFd)<br>
 
 Method of Use
 ----------------
