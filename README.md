@@ -16,11 +16,11 @@ Other Download link
 [微云Global](https://share.weiyun.com/yZTh7Jox)<br>
 [微云Global_NoHotUpdates](https://share.weiyun.com/wWPtWRsi)<br>
 [微云B服](https://share.weiyun.com/1unlj0hA)<br>
-[123盘CN](https://www.123684.com/s/222Ijv-tdxFd)
-[123盘CN_NoHotUpdates]：(https://www.123684.com/s/222Ijv-zdxFd)
-[123盘Global]：(https://www.123684.com/s/222Ijv-cdxFd)
-[123盘Global_NoHotUpdates]：(https://www.123684.com/s/222Ijv-LdxFd)
-[123盘B服l]：(https://www.123684.com/s/222Ijv-5dxFd)
+[123盘CN](https://www.123684.com/s/222Ijv-tdxFd)<br>
+[123盘CN_NoHotUpdates](https://www.123684.com/s/222Ijv-zdxFd)<br>
+[123盘Global](https://www.123684.com/s/222Ijv-cdxFd)<br>
+[123盘Global_NoHotUpdates](https://www.123684.com/s/222Ijv-LdxFd)<br>
+[123盘B服l](https://www.123684.com/s/222Ijv-5dxFd)<br>
 
 Method of Use
 ----------------
