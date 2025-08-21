@@ -11,21 +11,26 @@ Explanation
 
 Other Download link
 -----------------------
-[微云CN](https://share.weiyun.com/xZDL4rGv)<br>
+[微云CN](https://share.weiyun.com/31c0BHDc)<br>
 [微云CN_NoHotUpdates](https://share.weiyun.com/aA3fyRgO)<br>
-[微云Global](https://share.weiyun.com/yZTh7Jox)<br>
+[微云Global](https://share.weiyun.com/EibGhE1R)<br>
 [微云Global_NoHotUpdates](https://share.weiyun.com/wWPtWRsi)<br>
 [微云B服](https://share.weiyun.com/1unlj0hA)<br>
-[123盘CN](https://www.123684.com/s/222Ijv-tdxFd)<br>
+[123盘CN](https://www.123684.com/s/222Ijv-mhxFd)<br>
 [123盘CN_NoHotUpdates](https://www.123684.com/s/222Ijv-zdxFd)<br>
-[123盘Global](https://www.123684.com/s/222Ijv-cdxFd)<br>
+[123盘Global](https://www.123684.com/s/222Ijv-ohxFd)<br>
 [123盘Global_NoHotUpdates](https://www.123684.com/s/222Ijv-LdxFd)<br>
 [123盘B服](https://www.123684.com/s/222Ijv-5dxFd)<br>
 
-Method of Use
-----------------
+Method Of Use
+-----------------
 将压缩包内的文件全选拖出至游戏根目录，选择全部覆盖即可<br>
 [视频教程](https://www.bilibili.com/video/BV1RY8EzqEYz)<br>
+
+Possible Problems
+--------------------
+如遇到启动游戏黑屏，请进入游戏根目录/ZenlessZoneZero_Data/Persistent/删除文件夹内的文件，然后重启游戏
+热更新版本可能无法适用于你的电脑，之后请使用无热更新版本
 
 Prospect
 ----------
