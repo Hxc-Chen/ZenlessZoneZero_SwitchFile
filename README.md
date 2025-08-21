@@ -29,8 +29,8 @@ Method Of Use
 
 Possible Problems
 --------------------
-如遇到启动游戏黑屏，请进入游戏根目录/ZenlessZoneZero_Data/Persistent/删除文件夹内的文件，然后重启游戏
-热更新版本可能无法适用于你的电脑，之后请使用无热更新版本
+如遇到启动游戏黑屏，请进入游戏根目录/ZenlessZoneZero_Data/Persistent/删除文件夹内的文件，然后重启游戏<br>
+热更新版本可能无法适用于你的电脑，之后请使用无热更新版本<br>
 
 Prospect
 ----------
