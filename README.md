@@ -8,6 +8,13 @@ Explanation
 后缀带有NoHotUpdates的为无游戏热更新版本<br>
 优点是基本整个大版本都可使用，缺点是每次切服时进游戏会重新下载一些游戏资源<br>
 而带有游戏热更新的资源包则无需下载游戏资源文件，缺点是文件可能较大且更新较为频繁<br>
+<br>
+The file is downloaded from Release<br>
+The CN suffix is the national service, the Global suffix is the international service, and the B suffix is the B service<br>
+Updated dual version resource replacement packages starting from V2.1.4<br>
+The suffix NoHotUpdates is a version of the game with no hot updates<br>
+The advantage of this version is that it can be used in basically the entire major version, but the disadvantage is that some game resources will be re-downloaded every time you enter the game<br>
+Resource packs with game hot updates do not need to download game resource files every time they enter the game, but the disadvantage is that the files may be large and updated frequently <br>
 
 Other Download link
 -----------------------
@@ -25,12 +32,16 @@ Other Download link
 Method Of Use
 -----------------
 将压缩包内的文件全选拖出至游戏根目录，选择全部覆盖即可<br>
+Drag all the files in the package out to the root directory of the game and select all to overwrite them<br>
 [视频教程](https://www.bilibili.com/video/BV1RY8EzqEYz)<br>
 
 Possible Problems
 --------------------
 如遇到启动游戏黑屏，请进入游戏根目录/ZenlessZoneZero_Data/Persistent/删除文件夹内的文件，然后重启游戏<br>
 热更新版本可能无法适用于你的电脑，之后请使用无热更新版本<br>
+<br>
+If you encounter a black screen when starting the game, please navigate to the game root directory/ZenlessZoneZero_Data/Persistent/ and delete the files within the folder, then restart the game. <br>
+The hotfix version may not be compatible with your computer; afterwards, please use the non-hotfix version.<br>
 
 Prospect
 ----------
