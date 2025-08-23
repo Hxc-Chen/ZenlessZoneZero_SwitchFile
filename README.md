@@ -1,5 +1,6 @@
 # ZenlessZoneZero_SwitchFile
 目前更新至2.1版本，个人使用正常，如有问题可联系我 q:2094379680  v:Chen_09C5FA<br>
+At present, it has been updated to version 2.1, and personal use is normal, and if there are any problems, you can post Issues<br>
 
 Explanation
 -------------
