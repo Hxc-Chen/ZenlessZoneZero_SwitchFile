@@ -20,7 +20,7 @@ Resource packs with game hot updates do not need to download game resource files
 Other Download link
 -----------------------
 [微云](https://share.weiyun.com/iL9dpjKL)<br>
-[123盘](https://www.123684.com/s/222Ijv-w1xFd)<br>
+[123盘](https://www.123684.com/s/222Ijv-s1xFd)<br>
 
 Method Of Use
 -----------------
