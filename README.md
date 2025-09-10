@@ -27,8 +27,8 @@ Method Of Use
 -----------------
 将压缩包内的文件全选拖出至游戏根目录，选择全部覆盖即可<br>
 Drag all the files in the package out to the root directory of the game and select all to overwrite them<br>
-[视频教程](https://www.bilibili.com/video/BV1RY8EzqEYz)   [Video Tutorial](https://www.bilibili.com/video/BV1RY8EzqEYz)<br>
-[转服工具使用教程](https://www.bilibili.com/video/BV1fRHSz5EEm)   [SwitchSeverTool Video Tutorial](https://www.bilibili.com/video/BV1fRHSz5EEm)
+[视频教程](https://www.bilibili.com/video/BV1RY8EzqEYz)       [Video Tutorial](https://www.bilibili.com/video/BV1RY8EzqEYz)<br>
+[转服工具使用教程](https://www.bilibili.com/video/BV1fRHSz5EEm)       [SwitchSeverTool Video Tutorial](https://www.bilibili.com/video/BV1fRHSz5EEm)
 
 Possible issues
 --------------------
