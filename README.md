@@ -1,6 +1,7 @@
 # ZenlessZoneZero_SwitchFileAndTool
 更新至2.3版本，个人使用正常，如有问题可联系我 q:2094379680  v:Chen_09C5FA<br>
-At present, it has been updated to version 2.3, and personal use is normal, and if there are any problems, you can post Issues<br>
+<br>
+At present, it has been updated to version 2.2, and personal use is normal.If there are any problems, you can post Issues<br>
 
 Explanation
 -------------
@@ -26,8 +27,9 @@ Other Download link
 Method Of Use
 -----------------
 将压缩包内的文件全选拖出至游戏根目录，选择全部覆盖即可<br>
-Drag all the files in the package out to the root directory of the game and select all to overwrite them<br>
 [视频教程](https://www.bilibili.com/video/BV1RY8EzqEYz)---[转服工具使用教程](https://www.bilibili.com/video/BV1fRHSz5EEm)<br>
+<br>
+Drag all the files in the package out to the root directory of the game and select all to overwrite them<br>
 [Video Tutorial](https://www.bilibili.com/video/BV1RY8EzqEYz)---[SwitchSeverTool Video Tutorial](https://www.bilibili.com/video/BV1fRHSz5EEm)<br>
 
 Possible issues
@@ -38,4 +40,6 @@ Possible issues: If you encounter a black screen when launching the game, please
 
 Prospect
 ----------
-后续如有需要可以更新星铁以及原神的国际服转换文件<br>
+如有需要可以更新星铁以及原神的转换文件及工具<br>
+<br>
+If needed, the conversion files and tools for Star Rail and Genshin Impact can be updated.
