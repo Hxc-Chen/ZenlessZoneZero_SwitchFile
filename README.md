@@ -38,6 +38,12 @@ Possible issues
 <br>
 Possible issues: If you encounter a black screen when launching the game, please navigate to the game root directoryZenlessZoneZero_DataPersistent and delete the files within the folder, or use the server transfer tool to remove the game's hot update files, and then restart the game.<br>
 
+Acknowledgments
+----------------
+感谢“L.I.N.E”发现转服工具位于游戏根目录或父级目录时转服解压文件提示找不到压缩包的问题<br>
+<br>
+Thanks to 'L.I.N.E' for discovering the issue where the server transfer decompression file couldn't find the compressed package when the server transfer tool is located in the game root directory or parent directory.
+
 Prospect
 ----------
 如有需要可以更新星铁以及原神的转换文件及工具<br>
