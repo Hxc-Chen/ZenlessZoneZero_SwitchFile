@@ -1,7 +1,7 @@
 # ZenlessZoneZero_SwitchFileAndTool
-更新至2.3版本，个人使用正常，如有问题可联系我 q:2094379680  v:Chen_09C5FA<br>
+更新至2.4版本，个人使用正常，如有问题可联系我 q:2094379680  v:Chen_09C5FA<br>
 <br>
-At present, it has been updated to version 2.3, and personal use is normal.If there are any problems, you can post Issues<br>
+At present, it has been updated to version 2.4, and personal use is normal.If there are any problems, you can post Issues<br>
 
 Explanation
 -------------
@@ -37,12 +37,6 @@ Possible issues
 可能遇到的问题：如遇到启动游戏黑屏，请进入游戏根目录\ZenlessZoneZero_Data\Persistent\删除文件夹内的文件，或使用转服工具删除游戏热更新文件，然后重启游戏<br>
 <br>
 Possible issues: If you encounter a black screen when launching the game, please navigate to the game root directoryZenlessZoneZero_DataPersistent and delete the files within the folder, or use the server transfer tool to remove the game's hot update files, and then restart the game.<br>
-
-Acknowledgments
-----------------
-感谢“L.I.N.E”发现转服工具位于游戏根目录或父级目录时转服解压文件提示找不到压缩包的问题<br>
-<br>
-Thanks to 'L.I.N.E' for discovering the issue where the server transfer decompression file couldn't find the compressed package when the server transfer tool is located in the game root directory or parent directory.
 
 Prospect
 ----------
