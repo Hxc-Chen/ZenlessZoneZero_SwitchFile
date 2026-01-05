@@ -36,7 +36,7 @@ Possible issues
 --------------------
 可能遇到的问题：如遇到启动游戏黑屏，请进入游戏根目录\ZenlessZoneZero_Data\Persistent\删除文件夹内的文件，或使用转服工具删除游戏热更新文件，然后重启游戏<br>
 <br>
-Possible issues: If you encounter a black screen when launching the game, please navigate to the game root directoryZenlessZoneZero_Data\Persistent and delete the files within the folder, or use the server transfer tool to remove the game's hot update files, and then restart the game.<br>
+Possible issues: If you encounter a black screen when launching the game, please navigate to the game root directory\ZenlessZoneZero_Data\Persistent and delete the files within the folder, or use the server transfer tool to remove the game's hot update files, and then restart the game.<br>
 
 Prospect
 ----------
