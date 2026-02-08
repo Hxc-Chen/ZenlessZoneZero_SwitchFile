@@ -21,7 +21,7 @@ Conversely, resource packages that include game hot updates do not require downl
 Version 2.2.2 introduces the first version of the server transfer tool, which removes the hot update version resource replacement package.<br>
 The server transfer tool facilitates operations such as server transfers and file backups, significantly addressing issues related to black screens upon game startup caused by differences in hot update files, and is theoretically usable for the entire major version.<br>
 
-Other Download link
+Other Download Link
 -----------------------
 [微云](https://share.weiyun.com/iL9dpjKL)<br>
 [123盘](https://www.123684.com/s/222Ijv-s1xFd)<br>
@@ -34,7 +34,7 @@ Method Of Use
 Drag all the files in the package out to the root directory of the game and select all to overwrite them<br>
 [Video Tutorial](https://www.bilibili.com/video/BV1RY8EzqEYz)---[SwitchSeverTool Video Tutorial](https://www.bilibili.com/video/BV1fRHSz5EEm)<br>
 
-Possible issues
+Possible Issues
 --------------------
 可能遇到的问题：如遇到启动游戏黑屏，请进入游戏根目录\ZenlessZoneZero_Data\Persistent\删除文件夹内的文件，或使用转服工具删除游戏热更新文件，然后重启游戏<br>
 <br>
