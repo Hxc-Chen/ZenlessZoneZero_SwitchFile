@@ -1,11 +1,11 @@
 # ZenlessZoneZero_SwitchFileAndTool
-更新至2.5版本，个人使用正常，如有问题可联系我 q:2094379680  v:Chen_09C5FA<br>
+更新至2.6版本，如有问题可联系我 q:2094379680  v:Chen_09C5FA<br>
 <br>
-At present, it has been updated to version 2.5, and personal use is normal.If there are any problems, you can post Issues<br>
+At present, it has been updated to version 2.6.If there are any problems, you can post Issues<br>
 
 Explanation
 -------------
-采用易语言开发，源码已上传<br>
+采用易语言开发，源码及所需模块已上传<br>
 文件与工具在Release里面下载，CN后缀为国服，Global后缀为国际服，B后缀为B服<br>
 自V2.1.4版本开始更新双版本资源替换包，后缀带有NoHotUpdates的为无游戏热更新版本<br>
 优点是基本整个大版本都可使用，缺点是每次切服时进游戏会重新下载一些游戏资源<br>
@@ -13,7 +13,7 @@ Explanation
 V2.2.2版本发布转服工具第一版，移除了热更新版本资源替换包<br>
 转服工具可以更为方便的进行转服与备份文件等操作，极大程度解决了热更新文件差异导致的游戏启动黑屏问题，理论可用于整个大版本<br>
 <br>
-Developed using E-language, the source code has been uploaded.<br>
+Developed using E-language,the source code and required modules have been uploaded..<br>
 The files and tools can be downloaded in the Release section, with the CN suffix indicating the domestic version, the Global suffix for the international version, and the B suffix for the BiliBili version.<br>
 Starting from version 2.1.4, a dual-version resource replacement package is provided, where packages labeled with NoHotUpdates indicate the version without game hot updates.<br>
 The advantage is that it can generally be used for the entire major version, while the downside is that some game resources will need to be redownloaded each time you switch servers.<br>
