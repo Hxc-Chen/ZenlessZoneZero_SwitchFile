@@ -1,7 +1,7 @@
 # ZenlessZoneZero_SwitchFileAndTool
-更新至2.6版本，如有问题可联系我 q:2094379680  v:Chen_09C5FA<br>
+更新至2.7版本，如有问题可联系我 q:2094379680  v:Chen_09C5FA<br>
 <br>
-At present, it has been updated to version 2.6.If there are any problems, you can post Issues<br>
+At present, it has been updated to version 2.7.If there are any problems, you can post Issues<br>
 
 Explanation
 -------------
